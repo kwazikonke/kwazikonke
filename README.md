@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kwazikonke
 - 👀 I’m interested in Developing web applications
-- 🌱 I’m currently learning python and java script
+- 🌱 I’m currently learning Python and Javascript
 
 
 <!---
