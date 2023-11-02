@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **innovative projects that are intended to help and make a world a better place**
 
-- 👨‍💻 All of my projects are available at [[https://64e78bc7505c682e42f16a03--effulgent-cassata-6b20a2.netlify.app/](https://64e78bc7505c682e42f16a03--effulgent-cassata-6b20a2.netlify.app/)](https://kwazi-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at https://kwazi-portfolio.netlify.app/
 
 - 📫 How to reach me **kwazikonke.mbatha05@gmail.com**
 
